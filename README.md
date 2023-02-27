@@ -21,3 +21,5 @@ DQN的结构如下两张图所示：
 ![fig2](https://user-images.githubusercontent.com/77431730/221492887-2c015335-c328-42f6-a2b8-cfab977f744b.png)
 
 ![fig3](https://user-images.githubusercontent.com/77431730/221492906-7e82e9a6-dd97-454d-aca7-7c4b67f6b7df.png)
+
+<img width="738" alt="image" src="https://user-images.githubusercontent.com/77431730/221494658-d77fc4eb-8788-4fff-a9ab-120f30153472.png">
